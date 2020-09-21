@@ -1,0 +1,17 @@
+// ~/.config/sublime-text-3/Packages/User/
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+		"show_encoding": true,
+		"show_line_endings": true,
+		"wrap_width": true,
+
+	    "word_wrap": true,
+
+	    "auto_indent": true,
+	    "smart_indent": true,
+	    "trim_automatic_white_space": true,
+	    "indent_to_bracket": true,
+
+	    "":""
+}
